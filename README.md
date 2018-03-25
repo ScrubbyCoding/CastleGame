@@ -1,2 +1,2 @@
 # CastleGame
-Collaboration repository for Toxic Turtle Games
+Collaboration repository for Toxic Turtle Games for our Castle Game
